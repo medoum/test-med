@@ -1,5 +1,5 @@
 
-print("The future is for now")
+print("Practice makes perfect")
 
 
 
