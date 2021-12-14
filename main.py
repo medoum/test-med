@@ -1,5 +1,5 @@
 
-print("Good morning")
+print("The future is for now")
 
 
 
